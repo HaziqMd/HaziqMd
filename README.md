@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaziqMd
+- 👋 Hi, I’m Muhammad Haziq
 - 👀 I’m interested in Robotics and Intelligent Systems
 - 🌱 I’m currently learning about Robotics AI,NLP, Machine Learning and Programming Languages
 - 💞️ I’m looking to collaborate on diverse projects that can help me strengthen my skills
