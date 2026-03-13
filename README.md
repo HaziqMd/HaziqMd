@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Haziq
-- 👀 I’m interested in Robotics and Intelligent Systems
+- 👀 I’m interested in Robotics, Information Security and Intelligent Systems
 - 🌱 I’m currently learning about Robotics AI,NLP, Machine Learning, CyberSecurity and Programming Languages
 - 💞️ I’m looking to collaborate on diverse projects that can help me strengthen my skills.
 - 📫 How to reach me ... at my email - haziqmd1107@gmail.com
